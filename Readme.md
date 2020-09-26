@@ -1,7 +1,9 @@
 Github
 
-Arquivo da Aula de git e github
+This is a one test repository for teach how the git works
 
-Este é um repositório de teste para ensinar como o git funciona
+Know More in [datalovers.com.br](https://datalovers.com.br)
 
-gostou do curso ? quer mais ? 
+Did you like the course ? Want More? Help me! with a donation, even a coffee is valid =)
+
+
